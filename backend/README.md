@@ -30,4 +30,4 @@ To be able to run the project make sure you have installed the following version
 
 ## Enviroment
 
--   This enviroment is using under prettier and eslint rule code styles
+-   This enviroment is under prettier and eslint rule code styles
