@@ -27,11 +27,11 @@ const ItemDetail = ({ item }) => {
             <Grid item xs={12} sm={4}>
                 <Box px={5}>
                     <Box display={'flex'} mb={1} variant={'body2'}>
-                        <Typography mb={1} variant={'body2'}>
+                        <Typography mr={1} mb={1} variant={'body2'}>
                             {condition}
                         </Typography>
                         -
-                        <Typography mb={1} variant={'body2'}>
+                        <Typography ml={1} mb={1} variant={'body2'}>
                             {soldQuantity} vendidos
                         </Typography>
                     </Box>
