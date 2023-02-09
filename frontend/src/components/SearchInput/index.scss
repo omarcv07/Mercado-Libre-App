@@ -1,0 +1,12 @@
+@import '../../styles/colors.scss';
+
+.search-input-paper {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.search-button {
+    background: $background-color !important;
+    border-radius: 0% !important;
+}
