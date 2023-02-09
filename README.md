@@ -7,7 +7,8 @@ This project was made in a WSL (Windows Subsystem for Linux) enviroment
 3. Please read /backend README.md
 4. Please read /frontend README.md
 
-User interfaces
+## User interfaces
+
 ![firstPage](https://user-images.githubusercontent.com/60041964/217964465-65fa423f-1f40-4737-b637-050696579823.png)
 
 
