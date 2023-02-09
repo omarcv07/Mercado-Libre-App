@@ -17,6 +17,7 @@ To be able to run the project make sure you have installed the following version
 -   [Create React App](https://github.com/facebook/create-react-app): Bundler
 -   [SASS](https://www.npmjs.com/package/node-sass): CSS Pre-processor
 -   [Material UI V5](https://mui.com/): Component library
+-   [Proptypes](https://www.npmjs.com/package/prop-types): Runtime type checking for React props and similar objects.
 
 ## Design
 
