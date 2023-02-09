@@ -28,4 +28,4 @@ Each react component could be built with it's own SCSS stylesheet and with a tes
 
 ## Enviroment
 
--   This enviroment is using under prettier and eslint rule code styles
+-   This enviroment is under prettier and eslint rule code styles
